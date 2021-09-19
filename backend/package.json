@@ -1,0 +1,12 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Patrick Kabwe",
+  "license": "MIT",
+  "dependencies": {
+    "@prisma/client": "^3.0.2",
+    "express": "^4.17.1",
+    "prisma": "^3.0.2"
+  }
+}
